@@ -1,0 +1,4 @@
+ndspy
+nitrogfx-py
+ipython
+jupyter
